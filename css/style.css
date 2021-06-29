@@ -50,9 +50,18 @@ nav li a:hover{
 }
 
 /* Main */
-#b-red{background-color: red;}
-#b-green{background-color: green;}
-#b-yellow{background-color: yellow;}
+#b-red{
+    background-color: red;
+    color: yellow;
+}
+#b-green{
+    background-color: green;
+    color: yellow;
+}
+#b-yellow{
+    background-color: yellow;
+    color: green;
+}
 
 .box{
     position: relative;
